@@ -1,4 +1,4 @@
-## A little about me ⚡
+# A little about me ⚡
 My name is Bruno, I'm 23 years old, I'm from Capelinha-MG, and currently I live and study Computer Science in Alfenas-MG.
 
 ## Github stats  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-md.png" style="top: width: 34px; height: 34px;" />
