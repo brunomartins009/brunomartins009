@@ -1,7 +1,5 @@
-![Screenshot from 2023-07-06 18-24-17](https://github.com/brunomartins009/brunomartins009/assets/89664416/cfcebec2-3a56-4f00-89ca-d4b2c5c8fa99)
-
-### Hi 👋
-I am a computer science student at the Federal University of Alfenas (UNIFAL).
+                                                      A little about me
+My name is Bruno, I'm 23 years old, I'm from Capelinha-MG, and currently I live and study Computer Science in Alfenas-MG.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=brunomartins009)
 
