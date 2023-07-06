@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+![Screenshot from 2023-07-06 18-24-17](https://github.com/brunomartins009/brunomartins009/assets/89664416/bd394d04-f991-418b-ba8a-5cae59831b91)
 
 ### Hi 👋
 I am a computer science student at the Federal University of Alfenas (UNIFAL).
