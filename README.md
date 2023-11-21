@@ -1,5 +1,5 @@
 # A little about me ⚡
-My name is Bruno, I'm 23 years old, I'm from Capelinha-MG, and currently I live and study Computer Science in Alfenas-MG.
+###My name is Bruno, I'm 23 years old, I'm from Capelinha-MG, and currently I live and study Computer Science in Alfenas-MG.
 
 ## Github stats  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-md.png" style="top: width: 34px; height: 34px;" />
 <img src="https://github-readme-stats.vercel.app/api?username=brunomartins009&show_icons=true&theme=radical&show_icons=true" style="width: 550px;" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins009&theme=radical" style="width: 250px;" />
