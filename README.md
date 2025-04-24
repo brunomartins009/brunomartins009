@@ -18,7 +18,7 @@ I’m always open to new challenges and learning opportunities, especially in pr
 
 
 #
-<img src="https://github-readme-stats.vercel.app/api?username=brunomartins009&show_icons=true&theme=radical&show_icons=true" style="width: 550px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins009&layout=compact&theme=radical" style="width: 430px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=brunomartins009&show_icons=true&theme=radical&show_icons=true" style="width: 550px;" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins009&layout=compact&theme=radical" style="width: 430px;" />
 
 <div align="center">
 
