@@ -22,7 +22,7 @@ I’m always open to new challenges and learning opportunities, especially in pr
 
 <div align="center">
 
-### Contact
+## Contact
 
 <a href="https://www.linkedin.com/in/bruno-martins-541a37350">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
