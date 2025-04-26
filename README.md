@@ -24,15 +24,15 @@ I’m always open to new challenges and learning opportunities, especially in pr
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/bruno-martins-541a37350">
+<a target="about_blank" href="https://www.linkedin.com/in/bruno-martins-541a37350">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/brunomartins009/">
+<a target="about_blank" href="https://www.instagram.com/brunomartins009/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:martinscordeiro009@gmail.com">
+<a target="about_blank" href="mailto:martinscordeiro009@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
