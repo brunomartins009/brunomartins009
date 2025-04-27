@@ -22,13 +22,14 @@ I’m always open to new challenges and learning opportunities, especially in pr
 
 <div align="center">
 
-<h2>
-  <a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados">Certificates</a>
-</h2>
+<a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados">
+  <img src="https://img.shields.io/badge/Certificates-blue" />
+</a>
 
 </div>
 
 <div align="center">
+  
 ## Contact
 
 <a href="https://www.linkedin.com/in/bruno-martins-541a37350" target="_blank">
