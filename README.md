@@ -14,19 +14,16 @@ Currently, I’m working on improving my skills in web development, exploring bo
 
 I’m always open to new challenges and learning opportunities, especially in projects that combine creativity and technology.
 
+<a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados">
+  <img src="https://img.shields.io/badge/Certificates-blue" style="width: 100px;" />
+</a>
+
 </div>
 
 
 #
 <img src="https://github-readme-stats.vercel.app/api?username=brunomartins009&show_icons=true&theme=radical&show_icons=true" style="width: 450px;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomartins009&layout=compact&theme=radical" style="width: 355px;" />
 
-<div align="center">
-
-<a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados">
-  <img src="https://img.shields.io/badge/Certificates-blue" style="width: 100px;" />
-</a>
-
-</div>
 
 <div align="center">
   
