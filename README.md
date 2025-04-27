@@ -14,6 +14,8 @@ Currently, I’m working on improving my skills in web development, exploring bo
 
 I’m always open to new challenges and learning opportunities, especially in projects that combine creativity and technology.
 
+<br>
+
 <a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados">
   <img src="https://img.shields.io/badge/Certificates-blue" style="width: 100px;" />
 </a>
