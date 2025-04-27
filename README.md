@@ -22,7 +22,7 @@ I’m always open to new challenges and learning opportunities, especially in pr
 
 <div align="center">
 <a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados">
-  ## Certificates
+  <h2>Certificates</h2>
 </a>
 
 ## Contact
