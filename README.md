@@ -16,11 +16,11 @@ I’m always open to new challenges and learning opportunities, especially in pr
 
 <br>
 
-<a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados/">
+<a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados/" target="_blank">
   <img src="https://img.shields.io/badge/Certificates-blue" style="height: 25px;" />
 </a>
 &nbsp;
-<a href="https://brunomartins009.github.io/Portfolio/">
+<a href="https://brunomartins009.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-green" style="height: 25px;" />
 </a>
 
