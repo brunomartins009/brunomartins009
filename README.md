@@ -21,7 +21,7 @@ I’m always open to new challenges and learning opportunities, especially in pr
 </a>
 &nbsp;
 <a href="https://brunomartins009.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-green" style="width: 100px;" />
+  <img src="https://img.shields.io/badge/Portfolio-green" style="width: 75px;" />
 </a>
 
 </div>
