@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hi, I'm Bruno! ⚡
+# Olá, eu sou o Bruno! ⚡
 
-I'm currently pursuing a degree in Computer Science at UNIFAL (Federal University of Alfenas), where I’ve been developing a strong foundation in software development and problem-solving.
+Atualmente, estou cursando Ciência da Computação na UNIFAL (Universidade Federal de Alfenas), onde venho desenvolvendo uma base sólida em desenvolvimento de software e resolução de problemas.
 
-Currently, I’m working on improving my skills in web development, exploring both frontend and backend technologies.
+No momento, estou me dedicando a aprimorar minhas habilidades em desenvolvimento web, explorando tanto tecnologias de frontend quanto de backend.
 
-## About me
+## Sobre mim
 
-💬 **Languages:** Intermediate English  
-🧠 **Solid knowledge of:** C, C++, Python, HTML, CSS, and Blender  
-🔧 **Basic experience with:** JavaScript, TypeScript, React, Docker, and WordPress
+💬 **Idiomas:** Inglês intermediário
+🧠 **Conhecimento sólido em:** C, C++, Python, HTML, CSS e Blender
+🔧 **Experiência básica com:** JavaScript, TypeScript, React, Docker e WordPress
 
-I’m always open to new challenges and learning opportunities, especially in projects that combine creativity and technology.
+Estou sempre aberto a novos desafios e oportunidades de aprendizado, especialmente em projetos que combinem criatividade e tecnologia.
 
 <br>
 
@@ -39,7 +39,7 @@ I’m always open to new challenges and learning opportunities, especially in pr
 
 <div align="center">
   
-## Contact
+## Contato
 
 <a href="https://www.linkedin.com/in/bruno-martins-541a37350" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
