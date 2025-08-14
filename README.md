@@ -8,16 +8,16 @@ No momento, estou me dedicando a aprimorar minhas habilidades em desenvolvimento
 
 ## Sobre mim
 
-💬 **Idiomas:** Inglês intermediário
-🧠 **Conhecimento sólido em:** C, C++, Python, HTML, CSS e Blender
-🔧 **Experiência básica com:** JavaScript, TypeScript, React, Docker e WordPress
+💬 **Idiomas:** Inglês Intermediário  
+🧠 **Conhecimento sólido em:** C, C++, Python, HTML, CSS, e Blender  
+🔧 **Experiência básica com:** JavaScript, TypeScript, React, Docker, e WordPress
 
 Estou sempre aberto a novos desafios e oportunidades de aprendizado, especialmente em projetos que combinem criatividade e tecnologia.
 
 <br>
 
 <a href="https://github.com/brunomartins009/brunomartins009/tree/main/Certificados/" target="_blank">
-  <img src="https://img.shields.io/badge/Certificates-blue" style="height: 25px;" />
+  <img src="https://img.shields.io/badge/Certificados-blue" style="height: 25px;" />
 </a>
 &nbsp;
 <a href="https://brunomartins009.github.io/Portfolio/" target="_blank">
