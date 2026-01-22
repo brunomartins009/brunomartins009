@@ -20,7 +20,7 @@ Estou sempre aberto a novos desafios e oportunidades de aprendizado, especialmen
   <img src="https://img.shields.io/badge/Certificados-blue" style="height: 25px;" />
 </a>
 &nbsp;
-<a href="https://brunomartins009.github.io/Portfolio/" target="_blank">
+<a href="https://portfolio-bruno-martins.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-green" style="height: 25px;" />
 </a>
 
